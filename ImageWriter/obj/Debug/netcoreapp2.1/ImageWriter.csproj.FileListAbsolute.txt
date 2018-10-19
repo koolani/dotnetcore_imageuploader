@@ -1,0 +1,17 @@
+F:\dotnetcore\Upload_Image_.NETCore_2_1_www.mspsoft.com\ImageWriter\obj\Debug\netcoreapp2.1\ImageWriter.csproj.CoreCompileInputs.cache
+F:\dotnetcore\Upload_Image_.NETCore_2_1_www.mspsoft.com\ImageWriter\obj\Debug\netcoreapp2.1\ImageWriter.AssemblyInfoInputs.cache
+F:\dotnetcore\Upload_Image_.NETCore_2_1_www.mspsoft.com\ImageWriter\obj\Debug\netcoreapp2.1\ImageWriter.AssemblyInfo.cs
+F:\dotnetcore\Upload_Image_.NETCore_2_1_www.mspsoft.com\ImageWriter\bin\Debug\netcoreapp2.1\ImageWriter.deps.json
+F:\dotnetcore\Upload_Image_.NETCore_2_1_www.mspsoft.com\ImageWriter\bin\Debug\netcoreapp2.1\ImageWriter.dll
+F:\dotnetcore\Upload_Image_.NETCore_2_1_www.mspsoft.com\ImageWriter\bin\Debug\netcoreapp2.1\ImageWriter.pdb
+F:\dotnetcore\Upload_Image_.NETCore_2_1_www.mspsoft.com\ImageWriter\obj\Debug\netcoreapp2.1\ImageWriter.dll
+F:\dotnetcore\Upload_Image_.NETCore_2_1_www.mspsoft.com\ImageWriter\obj\Debug\netcoreapp2.1\ImageWriter.pdb
+F:\SourceCode\repo\dotnetcore\ImageWriter\bin\Debug\netcoreapp2.1\ImageWriter.deps.json
+F:\SourceCode\repo\dotnetcore\ImageWriter\bin\Debug\netcoreapp2.1\ImageWriter.dll
+F:\SourceCode\repo\dotnetcore\ImageWriter\bin\Debug\netcoreapp2.1\ImageWriter.pdb
+F:\SourceCode\repo\dotnetcore\ImageWriter\obj\Debug\netcoreapp2.1\ImageWriter.csprojAssemblyReference.cache
+F:\SourceCode\repo\dotnetcore\ImageWriter\obj\Debug\netcoreapp2.1\ImageWriter.csproj.CoreCompileInputs.cache
+F:\SourceCode\repo\dotnetcore\ImageWriter\obj\Debug\netcoreapp2.1\ImageWriter.AssemblyInfoInputs.cache
+F:\SourceCode\repo\dotnetcore\ImageWriter\obj\Debug\netcoreapp2.1\ImageWriter.AssemblyInfo.cs
+F:\SourceCode\repo\dotnetcore\ImageWriter\obj\Debug\netcoreapp2.1\ImageWriter.dll
+F:\SourceCode\repo\dotnetcore\ImageWriter\obj\Debug\netcoreapp2.1\ImageWriter.pdb
